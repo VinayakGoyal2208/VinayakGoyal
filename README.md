@@ -32,15 +32,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Vinayak Goyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/VinayakGoyal2208/&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/VinayakGoyal2208/&theme=dracula&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=https://github.com/VinayakGoyal2208/&theme=dracula&no-frame=true&row=1&column=7)
-
-</div>
 
 ## 🚀 Featured Projects
 
