@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-60b234?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-81b234?style=for-the-badge) 
 
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-b034b2?style=for-the-badge)
